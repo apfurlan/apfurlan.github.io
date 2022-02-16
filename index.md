@@ -14,3 +14,5 @@ Chemistry Rocasolano (Madrid-Spain) under the supervision of Enrique Lomba and N
 
 I'm currently postdoc at the Physics Department of the Universidade Federal de Minas Gerais (Belo Horizonte-MG-Brazil), working with Ronald Dickman, 
 on the study of the disorder effects in the critical behavior of different lattice gases and also in the Entropic Sampling Monte Carlo Simulations.
+
+[eu](euSusto.jpeg)
