@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "**About Me**"
 keywords: sample homepage
 #tags: [getting_started]
 sidebar: mydoc_sidebar
