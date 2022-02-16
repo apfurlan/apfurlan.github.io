@@ -7,6 +7,7 @@ sidebar: mydoc_sidebar
 #summary: These brief instructions will help you get started quickly with the theme. The other topics in this help provide additional information and detail about #working with other aspects of this theme and Jekyll.
 ---
 
+<img align="left" width="200" height="200" src="euSusto.jpeg">
 I studied physics at Universidade Federal do Paraná(Curitiba-PR-Brazil). Earned my M.Sc and Ph.D degrees from Universidade Federal do Rio Grande do Sul (Porto 
 Alegre-RS-Brazil) through the study of the influence of the disorder and solutes in the anomalous behavior of the liquid state. This work was performed under the 
 supervision of Marcia Barbosa and Carlos Fiore, with a doctoral collaborative period at Statistical Mechanics and Condensed Matter Group of the Institute of Physical 
@@ -14,5 +15,3 @@ Chemistry Rocasolano (Madrid-Spain) under the supervision of Enrique Lomba and N
 
 I'm currently postdoc at the Physics Department of the Universidade Federal de Minas Gerais (Belo Horizonte-MG-Brazil), working with Ronald Dickman, 
 on the study of the disorder effects in the critical behavior of different lattice gases and also in the Entropic Sampling Monte Carlo Simulations.
-
-[eu](euSusto.jpeg)
