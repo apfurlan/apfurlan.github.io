@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# **About Me**
+
+I studied physics at Universidade Federal do Paraná(Curitiba-PR-Brazil). Earned my M.Sc and Ph.D degrees from Universidade Federal do Rio Grande do Sul (Porto Alegre-RS-Brazil) through the study of the influence of the disorder and solutes in the anomalous behavior of the liquid state. This work was performed under the supervision of Marcia Barbosa and Carlos Fiore, with a doctoral collaborative period at Statistical Mechanics and Condensed Matter Group of the Institute of Physical Chemistry Rocasolano (Madrid-Spain) under the supervision of Enrique Lomba and Noé Almarza.
+
+I'm currently postdoc at the Physics Department of the Universidade Federal de Minas Gerais (Belo Horizonte-MG-Brazil), working with Ronald Dickman, on the study of the disorder effects in the critical behavior of different lattice gases and also in the Entropic Sampling Monte Carlo Simulations.
+
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [About Me](./another-page.html)[CV](./cv-page.md)
