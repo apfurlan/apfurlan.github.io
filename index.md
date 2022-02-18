@@ -12,7 +12,7 @@ I'm currently postdoc at the Physics Department of the Universidade Federal de M
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[About Me](./another-page.html)[CV](./cv-page.md)
+[About Me](./another-page.html) [CV](./cv-page.md)
 
 There should be whitespace between paragraphs.
 
