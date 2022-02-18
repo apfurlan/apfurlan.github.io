@@ -9,7 +9,7 @@ I studied physics at Universidade Federal do Paraná(Curitiba-PR-Brazil). Earned
 I'm currently postdoc at the Physics Department of the Universidade Federal de Minas Gerais (Belo Horizonte-MG-Brazil), working with Ronald Dickman, on the study of the disorder effects in the critical behavior of different lattice gases and also in the Entropic Sampling Monte Carlo Simulations.
 
 
-
+<!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [About Me](./another-page.html) [CV](./cv-page.md)
@@ -129,3 +129,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
