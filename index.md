@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[About Me](./another-page.html).
+[About Me](./another-page.html)[CV](./cv-page.md)
 
 There should be whitespace between paragraphs.
 
