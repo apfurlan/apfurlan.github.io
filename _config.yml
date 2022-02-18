@@ -1,6 +1,6 @@
-title: Minimalist theme
+title: Alexandre Furlan
 logo: /assets/img/logo.png
-email: bogus at gmail dot com
+email: alexandrepfurlan@gmail.com
 description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
 show_downloads: false
 google_analytics: UA-108144808-1
@@ -10,6 +10,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-remote-theme
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
