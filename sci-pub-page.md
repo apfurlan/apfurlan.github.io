@@ -1,6 +1,6 @@
 [5] - Order-disorder transition in a two-dimensional associating lattice gas
 AP Furlan, TJ Oliveira, JF Stilck, R Dickman
-([https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022109])[Phys. Rev. E 100 022109 (2)], 
+[Phys. Rev. E 100 022109 (2)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022109), 
 
 [4] - A. P. Furlan, E. Lomba, M. C. Barbosa , 
 Temperature of maximum density and excess properties of short-chain alcohol aqueous solutions: 
