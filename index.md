@@ -2,6 +2,8 @@
 layout: default
 ---
 
+[CV](./cv-page.md) &nbsp;&nbsp;&nbsp; [Publications](./cv-page.md)
+
 # **About Me**
 
 &nbsp;
