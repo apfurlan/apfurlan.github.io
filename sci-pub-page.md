@@ -1,5 +1,5 @@
 [5] - Order-disorder transition in a two-dimensional associating lattice gas
-AP Furlan, TJ Oliveira, JF Stilck, R Dickman.
+<span style="color:red">**A.P. Furlan**</span>, TJ Oliveira, JF Stilck, R Dickman.
 [Phys. Rev. E 100 022109 (2)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022109), 
 [arXiv:1903.08306](https://arxiv.org/abs/1903.08306)
 
