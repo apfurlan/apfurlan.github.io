@@ -1,12 +1,12 @@
 [6] - Jamming and percolation of dimers in restricted-valence random sequential adsorption
-**AP Furlan**, DC dos Santos, RM Ziff, R Dickman
-Physical Review Research 2 (4), 043027
-
+**A.P Furlan**, DC dos Santos, RM Ziff, R Dickman
+[Physical Review Research 2 (4), 043027](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043027)
+, [	arXiv:2006.06839](https://arxiv.org/abs/2006.06839)
 
 [5] - Order-disorder transition in a two-dimensional associating lattice gas, 
-<span style="color:red">**A.P. Furlan**</span>, TJ Oliveira, JF Stilck, R Dickman.
+**A.P. Furlan**, TJ Oliveira, JF Stilck, R Dickman.
 [Phys. Rev. E 100 022109 (2)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022109), 
-[arXiv:1903.08306](https://arxiv.org/abs/1903.08306)
+[arXiv:1903.08306](https://arxiv.org/abs/1903.08306), [arXiv:1903.08306](https://arxiv.org/abs/1903.08306)
 
 [4] - A. P. Furlan, E. Lomba, M. C. Barbosa , 
 Temperature of maximum density and excess properties of short-chain alcohol aqueous solutions: 
