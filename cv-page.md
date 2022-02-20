@@ -1,4 +1,8 @@
-**Alexandre P. Furlan**
+# **Alexandre P. Furlan**
+
+&nbsp;
+&nbsp;
+&nbsp;
 
 Education
 2005-2010 - B.Sc. in Physics, Department of Physics, Universidade Federal do Paraná \\
