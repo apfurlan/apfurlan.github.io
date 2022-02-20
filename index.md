@@ -21,8 +21,8 @@ Lomba and Noé Almarza.
 
 Between 2017 and 2021, I worked as postdoc at the Physics Department of the Universidade Federal 
 de Minas Gerais (Belo Horizonte-MG-Brazil), working with Ronald Dickman, on the study of the 
-disorder effects in the critical behavior of different lattice gases and also in the Entropic 
-Sampling Monte Carlo Simulations.
+critical behavior of different lattice gases, Entropic Sampling Monte Carlo Simulations, 
+Percolation and Non-equilibrium phase transitions.
 
 
 
