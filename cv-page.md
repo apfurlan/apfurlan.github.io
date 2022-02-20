@@ -2,8 +2,8 @@
 
 Education
 2005-2010 - B.Sc. in Physics, Department of Physics, Universidade Federal do Paraná \\
-        **Advisor** : Carlos Eduardo Fiore dos Santos \\
-        **Project** : Phase transitions and criticality on simplified statistical models.
+&nbsp;&nbsp;&nbsp;        **Advisor** : Carlos Eduardo Fiore dos Santos \\
+&nbsp;&nbsp;&nbsp;        **Project** : Phase transitions and criticality on simplified statistical models.
 
 2011-2013 - M.Sc. in Physics, Physics Institute, Universidade Federal do Rio Grande do Sul
         Advisor : Marcia Cristina Bernardes Barbosa
