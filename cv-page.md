@@ -13,9 +13,9 @@ Education
 &nbsp;&nbsp;&nbsp;&nbsp;       **Advisor** : Marcia Cristina Bernardes Barbosa \\
 &nbsp;&nbsp;&nbsp;&nbsp;       **Project** : Effects of confinement in porous matrix on the anomalous properties of water-like systems.
 
-2013-2017 - Doctoral degree in Science, Physics Institute, Universidade Federal do Rio Grande do Sul
-&nbsp;&nbsp;&nbsp;&nbsp;       **Advisor** : Marcia Cristina Bernardes Barbosa
-&nbsp;&nbsp;&nbsp;&nbsp;       **Project**   : Cofinement and mixtures in water-like models.
+2013-2017 - Doctoral degree in Science, Physics Institute, Universidade Federal do Rio Grande do Sul \\
+&nbsp;&nbsp;&nbsp;&nbsp;       **Advisor** : Marcia Cristina Bernardes Barbosa \\ 
+&nbsp;&nbsp;&nbsp;&nbsp;       **Project**   : Cofinement and mixtures in water-like models. \\
 &nbsp;&nbsp;&nbsp;&nbsp;       **Collaboration** : From 01/2016 to 08/2016 I studied at the goup Institute of 
 Physical Chemistry "Rocasolano"at Consejo Superior de Investigaciones Científicas - CSIC.
 
