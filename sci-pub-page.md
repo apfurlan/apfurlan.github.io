@@ -1,9 +1,13 @@
-[7] - Phase diagram and critical properties of a two-dimensional associating lattice gas
+[8] - Contact processes on fragmented domains, I Ibagon, **A. P. Furlan**, R Dickman,
+[arXiv:2112.15208](https://arxiv.org/abs/2112.15208)
+
+
+[7] - Phase diagram and critical properties of a two-dimensional associating lattice gas,
 I Ibagon, **A. P. Furlan**, TJ Oliveira, R Dickman
 [Phys. Rev. E 104 (6), 064120](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.064120), 
 [arXiv:2109.12658](https://arxiv.org/abs/2109.12658)
 
-[6] - Jamming and percolation of dimers in restricted-valence random sequential adsorption
+[6] - Jamming and percolation of dimers in restricted-valence random sequential adsorption,
 **A.P. Furlan**, DC dos Santos, RM Ziff, R Dickman
 [Phys. Rev. Research 2 (4), 043027](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043027)
 , [arXiv:2006.06839](https://arxiv.org/abs/2006.06839)
