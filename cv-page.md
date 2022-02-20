@@ -6,12 +6,12 @@
 
 Education
 2005-2010 - B.Sc. in Physics, Department of Physics, Universidade Federal do Paraná \\
-&nbsp;&nbsp;&nbsp;        **Advisor** : Carlos Eduardo Fiore dos Santos \\
-&nbsp;&nbsp;&nbsp;        **Project** : Phase transitions and criticality on simplified statistical models.
+&nbsp;&nbsp;&nbsp;&nbsp;        **Advisor** : Carlos Eduardo Fiore dos Santos \\
+&nbsp;&nbsp;&nbsp;&nbsp;        **Project** : Phase transitions and criticality on simplified statistical models.
 
 2011-2013 - M.Sc. in Physics, Physics Institute, Universidade Federal do Rio Grande do Sul
-        Advisor : Marcia Cristina Bernardes Barbosa
-        Project   : Effects of confinement in porous matrix on the anomalous properties of water-like systems.
+&nbsp;&nbsp;&nbsp;&nbsp;       **Advisor** : Marcia Cristina Bernardes Barbosa
+&nbsp;&nbsp;&nbsp;&nbsp;       **Project** : Effects of confinement in porous matrix on the anomalous properties of water-like systems.
 
 2013-2017 - Doctoral degree in Science, Physics Institute, Universidade Federal do Rio Grande do Sul
         Advisor : Marcia Cristina Bernardes Barbosa
