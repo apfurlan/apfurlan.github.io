@@ -1,7 +1,7 @@
 # **Alexandre P. Furlan**
-## Data Engineer
 
-**______________________________________________________________________________**
+## Data Engineer
+**____________________________________________________________________________________________**
 
 &nbsp;
 &nbsp;
@@ -12,7 +12,9 @@
 
 **A3Data Consulting** - Data Engineer 
 
-SINCE NOVEMBER 2021 
+SINCE NOVEMBER 2021
+
+I've worked implementing the cloud-based architecture of project. We  
 
 Main technologies used : 
 
