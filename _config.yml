@@ -5,7 +5,7 @@ description: Data Engineer
 show_downloads: false
 google_analytics: UA-108144808-1
 remote_theme: BDHU/minimalist
-color-scheme: dark
+color-scheme: light
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
