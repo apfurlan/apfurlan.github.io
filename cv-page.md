@@ -43,15 +43,18 @@ I've worked with Monte Carlo simulations focused Phase Transitions and Critical 
 
 Main technologies used : 
     
-    - Fortran
-    - C/C++
-    - Python
-         - Numpy
-         - Matplolib
-         - Scipy
-         - Pandas
-    - Bash
-    - Linux 
+> Fortran 
+
+> C/C++
+
+> Python 
+    >> Numpy \
+    >> Matplolib \
+    >> Scipy  \
+    >> Pandas \
+
+> Bash \
+> Linux 
 
 
 ## EDUCATION
