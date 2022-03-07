@@ -9,8 +9,14 @@
 
 
 ## WORK HISTORY ADN EXPERIENCE
+---
+---
+
+&nbsp;
+&nbsp;
 
 **A3Data Consulting** - Data Engineer 
+
 
 SINCE NOVEMBER 2021
 
@@ -32,6 +38,10 @@ Main technologies used :
 - Terraform
 - Gitlab CI
 
+
+&nbsp;
+&nbsp;
+
 **A3Data Consulting** - Data Analyst 
 
 FROM APRIL 2021 TO NOVEMBER 2021 (8 months)
@@ -43,7 +53,10 @@ Main technologies used :
 - DAX
 - Python
 - AWS
+---
 
+&nbsp;
+&nbsp;
 
 **Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais 
 
@@ -65,6 +78,7 @@ Main technologies used :
 - Linux 
 
 
+
 ## EDUCATION
 ---
 > 2005-2010 - B.Sc. in Physics, Department of Physics, Universidade Federal do Paraná. 
@@ -82,8 +96,6 @@ Científicas - Madrid - ES.
 
 ## LANGUAGES
 ---
-> **Portuguese** - native speaker
-
-> **English** - Intermediate knowledge
-
-> **Spanish** - Basic knowledge
+- **Portuguese** - native speaker
+- **English** - Intermediate knowledge
+- **Spanish** - Basic knowledge
