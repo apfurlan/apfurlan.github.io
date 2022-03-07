@@ -1,6 +1,8 @@
 # **Alexandre P. Furlan**
 ## Data Engineer
 
+_________________________________________________________________
+
 &nbsp;
 &nbsp;
 &nbsp;
@@ -72,10 +74,10 @@ Científicas - Madrid - ES.
 &nbsp;
 &nbsp;
 
-## Languages 
+## LANGUAGES
 ---
 > **Portuguese** - native speaker
 
 > **English** - Intermediate knowledge
 
-> **Spanish** - Basic speaker
+> **Spanish** - Basic knowledge
