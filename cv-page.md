@@ -10,53 +10,55 @@ _________________________________________________________________
 
 ## WORK HISTORY ADN EXPERIENCE
 
-**A3Data Consulting** - Data Engineer 
+**A3Data Consulting** - Data Engineer \
+
 SINCE NOVEMBER 2021 
 
 Main technologies used : 
 
-    - AWS 
-        - EKS
-        - EMR
-        - EC2
-        - S3
-        - IAM
-    - Airflow
-    - Spark
-    - Terraform
-    - Gitlab CI
+- AWS 
+    - EKS
+    - EMR
+    - EC2
+    - S3
+    - IAM
+- Airflow
+- ArgoCD
+- Spark
+- Terraform
+- Gitlab CI
 
-**A3Data Consulting** - Data Analyst
+**A3Data Consulting** - Data Analyst \
+
 FROM APRIL 2021 TO NOVEMBER 2021 (8 months)
 
 Main technologies used : 
     
-    - SQL
-    - PowerBI
-    - DAX
-    - Python
-    - AWS
+- SQL
+- PowerBI
+- DAX
+- Python
+- AWS
 
 
-**Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais
+**Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais \
+
 FROM APRIL 2017 TO APRIL 2021 (4 years)
 
 I've worked with Monte Carlo simulations focused Phase Transitions and Critical Phenomena. 
 
 Main technologies used : 
     
-> Fortran 
+- Fortran 
+- C/C++
+- Python 
+    - Numpy 
+    - Matplolib 
+    - Scipy  
+    - Pandas 
 
-> C/C++
-
-> Python 
-    >> Numpy \
-    >> Matplolib \
-    >> Scipy  \
-    >> Pandas \
-
-> Bash \
-> Linux 
+- Bash 
+- Linux 
 
 
 ## EDUCATION
