@@ -1,7 +1,7 @@
 # **Alexandre P. Furlan**
 ## Data Engineer
 
-_________________________________________________________________
+**______________________________________________________________________________**
 
 &nbsp;
 &nbsp;
@@ -10,7 +10,7 @@ _________________________________________________________________
 
 ## WORK HISTORY ADN EXPERIENCE
 
-**A3Data Consulting** - Data Engineer \
+**A3Data Consulting** - Data Engineer 
 
 SINCE NOVEMBER 2021 
 
@@ -28,7 +28,7 @@ Main technologies used :
 - Terraform
 - Gitlab CI
 
-**A3Data Consulting** - Data Analyst \
+**A3Data Consulting** - Data Analyst 
 
 FROM APRIL 2021 TO NOVEMBER 2021 (8 months)
 
@@ -41,7 +41,7 @@ Main technologies used :
 - AWS
 
 
-**Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais \
+**Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais 
 
 FROM APRIL 2017 TO APRIL 2021 (4 years)
 
