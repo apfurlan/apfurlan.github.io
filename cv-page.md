@@ -14,7 +14,9 @@
 
 SINCE NOVEMBER 2021
 
-I've worked implementing the cloud-based architecture of project. We  
+I've worked implementing a cloud-based architecture of project. I used infrastructure as code by using Terraform in AWS. Different AWS services were used in this project, data lakes (S3), Kubernetes cluster (EKS), Virtual Private Cloud (VPC), Elastic Map-Reduce (EMR) and others. Airflow
+was used to orchestrate the pipeline and argoCD to manage the applications
+in Kubernetes cluster. The Gitlab CI was used to deploy.  
 
 Main technologies used : 
 
