@@ -9,8 +9,6 @@
 
 
 ## WORK HISTORY ADN EXPERIENCE
----
----
 
 &nbsp;
 &nbsp;
@@ -53,7 +51,7 @@ Main technologies used :
 - DAX
 - Python
 - AWS
----
+
 
 &nbsp;
 &nbsp;
@@ -77,7 +75,9 @@ Main technologies used :
 - Bash 
 - Linux 
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## EDUCATION
 ---
