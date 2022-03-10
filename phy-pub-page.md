@@ -1,5 +1,5 @@
 
-[9] Percolation in a oriented dimers models, **A. P. Furlan**, D. C. dos Santos,
+[9] - Percolation in a oriented dimers models, **A. P. Furlan**, D. C. dos Santos,
 R. Dickman - *in preparation*
 
 [8] - Contact processes on fragmented domains, I Ibagon, **A. P. Furlan**, R Dickman,

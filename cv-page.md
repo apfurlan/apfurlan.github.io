@@ -67,7 +67,7 @@ Main technologies used :
 &nbsp;
 
 ---
-**Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais 
+### **Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais 
 
 FROM APRIL 2017 TO APRIL 2021 (4 years)
 
