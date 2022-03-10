@@ -44,9 +44,15 @@ Main technologies used :
 &nbsp;
 &nbsp;
 
-**A3Data Consulting** - Data Analyst 
+---
+### **A3Data Consulting** - Data Analyst 
 
 FROM APRIL 2021 TO NOVEMBER 2021 (8 months)
+
+I've worked developing Power BI panels for the finance department of 
+a brazialian food industry. I general the panels showed budgeted-paid 
+analysis. For some cases a statistical quantitides like a standard
+deviation and confidence interval were studied. 
 
 Main technologies used : 
     
@@ -60,11 +66,14 @@ Main technologies used :
 &nbsp;
 &nbsp;
 
+---
 **Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais 
 
 FROM APRIL 2017 TO APRIL 2021 (4 years)
 
-I've worked with Monte Carlo simulations focused Phase Transitions and Critical Phenomena. 
+I've worked with Monte Carlo simulations focused Phase Transitions and Critical 
+Phenomena. I developed C/C++ algorithms to study distinct simplified statiscal
+models. Visit Sci. Publications page for more details.
 
 Main technologies used : 
     
