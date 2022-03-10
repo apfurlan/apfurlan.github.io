@@ -25,9 +25,13 @@ critical behavior of different lattice gases, Entropic Sampling Monte Carlo Simu
 Percolation and Non-equilibrium phase transitions.
 
 
-
-
-
+For two years I work with Data Science. I started the career as Data Analyst converting
+bussiness rules into BI panels. In this period I worked essentially with PowerBI, SQL and 
+DAX. Posteriorly I migrated to Data Engineer and it is the position that I worked nowadays. 
+As an Data Engineer I worked with terraform, AWS cloud, Kubernetes, CI/CD, Airfow, Python,
+Spark and other technologies. For more details visit my [Github](https://github.com/apfurlan) 
+and [Gitlab](https://gitlab.com/apfurlan)
+ 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
