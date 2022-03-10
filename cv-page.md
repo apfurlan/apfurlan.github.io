@@ -67,13 +67,13 @@ Main technologies used :
 &nbsp;
 
 ---
-### **Postdoctoral Research Scientist** - Universidade Federal de Minas Gerais 
+### **- Universidade Federal de Minas Gerais** - Postdoctoral Research Scientist 
 
 FROM APRIL 2017 TO APRIL 2021 (4 years)
 
 I've worked with Monte Carlo simulations focused Phase Transitions and Critical 
 Phenomena. I developed C/C++ algorithms to study distinct simplified statiscal
-models. Visit Sci. Publications page for more details.
+models. Visit [Sci. Publications](./phy-pub-page.md) page for more details.
 
 Main technologies used : 
     
