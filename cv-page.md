@@ -45,6 +45,7 @@ Main technologies used :
 &nbsp;
 
 ---
+
 ### **A3Data Consulting** - Data Analyst 
 
 FROM APRIL 2021 TO NOVEMBER 2021 (8 months)
@@ -67,6 +68,7 @@ Main technologies used :
 &nbsp;
 
 ---
+
 ### **Universidade Federal de Minas Gerais** - Postdoctoral Research Scientist 
 
 FROM APRIL 2017 TO APRIL 2021 (4 years)
@@ -92,8 +94,10 @@ Main technologies used :
 &nbsp;
 &nbsp;
 
-## EDUCATION
 ---
+
+## EDUCATION
+
 > 2005-2010 - B.Sc. in Physics, Department of Physics, Universidade Federal do Paraná. 
 
 > 2011-2013 - M.Sc. in Physics, Physics Institute, Universidade Federal do Rio Grande do Sul. 
@@ -107,8 +111,10 @@ Científicas - Madrid - ES.
 &nbsp;
 &nbsp;
 
-## LANGUAGES
 ---
+
+## LANGUAGES
+
 - **Portuguese** - native speaker
 - **English** - Intermediate knowledge
 - **Spanish** - Basic knowledge
