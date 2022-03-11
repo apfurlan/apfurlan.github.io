@@ -8,7 +8,7 @@
 &nbsp;
 
 
-## WORK HISTORY ADN EXPERIENCE
+## WORK HISTORY AND EXPERIENCE
 
 &nbsp;
 &nbsp;
@@ -87,7 +87,17 @@ Main technologies used :
     - Pandas 
 
 - Bash 
-- Linux 
+- Linux
+
+Other : 
+
+- Mathematical modeling
+- Computational Physics
+- Monte Carlo Simulations
+- Percolation
+- Phase transitions 
+
+ 
 
 &nbsp;
 &nbsp;
