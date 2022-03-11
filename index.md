@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[CV](./cv-page.md) &nbsp;&nbsp;&nbsp; [Data Science](./dts-pub-page.md)
+[**CV**](./cv-page.md) &nbsp;&nbsp;&nbsp; [Data Science](./dts-pub-page.md)
 &nbsp;&nbsp;&nbsp;[Sci. Publications](./phy-pub-page.md)
 
 # **About Me**
