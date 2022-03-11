@@ -7,12 +7,13 @@ layout: default
 
 &nbsp;
 &nbsp;
+&nbsp;
 
 # **About Me**
 
 &nbsp;
 &nbsp;
-&nbsp;
+
 
 I studied physics at Universidade Federal do Paraná(Curitiba-PR-Brazil). Earned my M.Sc and 
 Ph.D degrees from Universidade Federal do Rio Grande do Sul (Porto Alegre-RS-Brazil) through 
