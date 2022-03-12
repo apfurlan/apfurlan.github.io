@@ -1,7 +1,7 @@
 
 # Data Science Projects
 
-This page is dedicated to show some of my DataScience projects. All projects present a link to Github/Gitlab 
+This page is dedicated to show some of my DataScience projects. The projects present a link to Github/Gitlab 
 and an article in which I describe the project. 
 
 &nbsp;
@@ -22,6 +22,15 @@ and an article in which I describe the project.
 [Medium] - 
 
 
+&nbsp;
+
+
+## Integrando-scripts-python-plataformas-de-bi
+
+[Linkedin] - [https://www.linkedin.com/pulse/integrando-scripts-python-plataformas-de-bi-um-exemplo-furlan/](https://www.linkedin.com/pulse/integrando-scripts-python-plataformas-de-bi-um-exemplo-furlan/)
+
 ## Machine Learning
+
+## Deep Learning 
 
 
