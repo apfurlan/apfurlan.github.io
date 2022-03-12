@@ -31,11 +31,15 @@ and an article in which I describe the project.
 
 &nbsp;
 
-## Machine Learning
+## Predição de preços de aluguel - Sklearn e TensorFlow
+
+[Github] - [https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectPriceTF.ipynb](https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectPriceTF.ipynb)
+
+
 
 &nbsp;
 
-## Deep Learing para a classificação de tumores
+## Classificação de tumores
 
 [Github] - [https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectTumorClassTF.ipynb](https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectTumorClassTF.ipynb)
 
