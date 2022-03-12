@@ -35,7 +35,7 @@ and an article in which I describe the project.
 
 &nbsp;
 
-## Deep Learning 
+## Deep Learing para a classificação de tumores
 
 [Github] - [https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectTumorClassTF.ipynb](https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectTumorClassTF.ipynb)
 
