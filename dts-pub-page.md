@@ -13,14 +13,15 @@ and an article in which I describe the project.
 [Github] - [https://github.com/apfurlan/k8s_IaC_ArgoCD](https://github.com/apfurlan/k8s_IaC_ArgoCD) \
 [Medium] - 
 
+&nbsp;
+
+
 ## ETL with apache Airflow and Amazon RDS 
 
-[]
 
-
-## Terraform 
+[Medium] - 
 
 
 ## Machine Learning
----
+
 
