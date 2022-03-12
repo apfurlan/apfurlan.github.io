@@ -29,7 +29,11 @@ and an article in which I describe the project.
 
 [Linkedin] - [https://www.linkedin.com/pulse/integrando-scripts-python-plataformas-de-bi-um-exemplo-furlan/](https://www.linkedin.com/pulse/integrando-scripts-python-plataformas-de-bi-um-exemplo-furlan/)
 
+&nbsp;
+
 ## Machine Learning
+
+&nbsp;
 
 ## Deep Learning 
 
