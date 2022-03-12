@@ -1,9 +1,11 @@
 
 # Data Science Projects
 
-This is dedicated to show some DataScience projects.
-All projects have a link to Github/Gitlab and an 
-article in which I described the project. 
+This page is dedicated to show some of my DataScience projects. All projects present a link to Github/Gitlab 
+and an article in which I describe the project. 
+
+&nbsp;
+&nbsp;
 
 
 ## Provisioning ArgoCD and Airflow in a Kubernetes Cluster
