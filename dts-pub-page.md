@@ -2,10 +2,11 @@
 # Data Science Projects
 
 
-## Project's Title : Provisioning MkDocs in a Kubernetes Cluster
+## Provisioning MkDocs in a Kubernetes Cluster
 
-[Github] - [](https://github.com/apfurlan/k8s_IaC_ArgoCD)
+[Github] - https://github.com/apfurlan/k8s_IaC_ArgoCD \
 [Medium] - 
+
 
 
 
