@@ -13,7 +13,7 @@ and an article in which I describe the project.
 [Medium] - [Provisioning ArgoCD and Airflow in a Kubernetes cluster - Part I](www.www.ww) \
 [Medium] - 
 
-[Github] - [https://github.com/apfurlan/k8s_IaC_ArgoCD](https://github.com/apfurlan/k8s_IaC_ArgoCD) \
+[Github] - [https://github.com/apfurlan/k8s_IaC_ArgoCD](https://github.com/apfurlan/k8s_IaC_ArgoCD) 
 
 
 &nbsp;
