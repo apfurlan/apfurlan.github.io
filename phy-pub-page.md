@@ -6,22 +6,22 @@ R. Dickman - *in preparation*
 [arXiv:2112.15208](https://arxiv.org/abs/2112.15208)
 
 
-[7] - Phase diagram and critical properties of a two-dimensional associating lattice gas,
+⭐ [7] - Phase diagram and critical properties of a two-dimensional associating lattice gas,
 I Ibagon, **A. P. Furlan**, TJ Oliveira, R Dickman
 [Phys. Rev. E 104 (6), 064120](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.064120) -  
 [arXiv:2109.12658](https://arxiv.org/abs/2109.12658)
 
-[6] - Jamming and percolation of dimers in restricted-valence random sequential adsorption,
+⭐ [6] - Jamming and percolation of dimers in restricted-valence random sequential adsorption,
 **A.P. Furlan**, DC dos Santos, RM Ziff, R Dickman
 [Phys. Rev. Research 2 (4), 043027](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043027) - 
 [arXiv:2006.06839](https://arxiv.org/abs/2006.06839)
 
-[5] - Order-disorder transition in a two-dimensional associating lattice gas, 
+⭐ [5] - Order-disorder transition in a two-dimensional associating lattice gas, 
 **A.P. Furlan**, TJ Oliveira, JF Stilck, R Dickman.
 [Phys. Rev. E 100 022109 (2)](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022109) - 
 [arXiv:1903.08306](https://arxiv.org/abs/1903.08306)
 
-[4] - **A. P. Furlan**, E. Lomba, M. C. Barbosa , 
+⭐ [4] - **A. P. Furlan**, E. Lomba, M. C. Barbosa , 
 Temperature of maximum density and excess properties of short-chain alcohol aqueous solutions: 
 A simplified model simulation study - 
 [J. Chem. Phys. 146 144503 (2017)](https://aip.scitation.org/doi/10.1063/1.4979806) -  
