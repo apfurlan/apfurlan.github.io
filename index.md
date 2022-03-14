@@ -36,7 +36,7 @@ For more details access my [Github](https://github.com/apfurlan)
 and [Gitlab](https://gitlab.com/apfurlan)
  
 
-## Other links about me
+
 
 
 
