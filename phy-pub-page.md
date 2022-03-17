@@ -3,7 +3,7 @@
 R. Dickman - *in preparation*
 
 [8] - Contact processes on fragmented domains, I Ibagon, **A. P. Furlan**, R Dickman,
-[arXiv:2112.15208](https://arxiv.org/abs/2112.15208)
+[arXiv:2112.15208](https://arxiv.org/abs/2112.15208) 
 
 
 ⭐ [7] - Phase diagram and critical properties of a two-dimensional associating lattice gas,
