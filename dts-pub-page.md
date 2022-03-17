@@ -19,11 +19,6 @@ and an article in which I describe the project.
 &nbsp;
 
 
-Recentmente Eu e meu colega Gabriel Bonifacio estivemos trabalhando
-com Kubernetes em um projeto bastante desafiador. Resolvemos escrever
-um artigo fazendo um hands-on de kubernetes e AWS. Ao longo da escrtia a introdução começou a ser tornar tão grande que decidimos fazer dois 
-artigos sendo este primeiro, voltado à conceitos mais gerais de Kubernetes.  
-
 ## Integrando-scripts-python-plataformas-de-bi
 
 [Linkedin] - [https://www.linkedin.com/pulse/integrando-scripts-python-plataformas-de-bi-um-exemplo-furlan/](https://www.linkedin.com/pulse/integrando-scripts-python-plataformas-de-bi-um-exemplo-furlan/)
