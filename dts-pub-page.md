@@ -10,7 +10,7 @@ and an article in which I describe the project.
 
 ## Provisioning ArgoCD and Airflow in a Kubernetes cluster - Part I
 
-[Medium] - [Provisioning a Kubernetes cluster on Amazon EKS - Part I](https://apfurlan.medium.com/provisioning-a-kubernetes-cluster-on-amazon-eks-part-i-40132412eadf) \
+[Medium] - [Provisioning a Kubernetes cluster on Amazon EKS - Part I](https://apfurlan.medium.com/provisioning-a-kubernetes-cluster-on-amazon-eks-part-i-40132412eadf) 
 
 [Medium] - [Provisioning a Kubernetes cluster on Amazon EKS - Part I](www.www.www)
 
