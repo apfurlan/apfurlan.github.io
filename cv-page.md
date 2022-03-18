@@ -124,6 +124,6 @@ Científicas - Madrid - ES.
 
 ## LANGUAGES
 
-- **Portuguese** - native speaker
+- **Portuguese** - native speaker :black_circle:
 - **English** - Intermediate knowledge
 - **Spanish** - Basic knowledge
