@@ -126,4 +126,4 @@ Científicas - Madrid - ES.
 
 - **Portuguese** - native speaker &ensp; &ensp; &ensp; &ensp; &ensp; :black_circle: :black_circle: :black_circle: :black_circle: :black_circle:
 - **English** - Intermediate knowledge &ensp;&ensp; :black_circle: :black_circle: :black_circle: :white_circle: :white_circle:
-- **Spanish** - Basic knowledge &ensp; &ensp; &ensp; &ensp; &ensp; :black_circle: :black_circle: :white_circle: :white_circle: :white_circle:
+- **Spanish** - Basic knowledge &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; :black_circle: :black_circle: :white_circle: :white_circle: :white_circle:
