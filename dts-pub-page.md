@@ -18,7 +18,7 @@ and an article in which I describe the project.
 
 Technologies used : 
 
-  &nbsp; <img align="center" alt="C" height="50" width="50" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png">
+  &nbsp;&nbsp;&nbsp;&nbsp; <img align="center" alt="C" height="50" width="50" src="https://www.pinclipart.com/picdir/big/519-5197888_terraform-terraform-icon-png-clipart.png">
   <img align="center" alt="C" height="50" width="50" src="https://seeklogo.com/images/K/kubernetes-logo-3A67038EAB-seeklogo.com.png">
   <img align="center" alt="C" height="50" width="50" src="https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png">
  <img align="center" alt="C" height="50" width="50" src="https://ichi.pro/assets/images/max/724/1*Y8GmdU1N_gw9ai_gqXDS0Q.png">
