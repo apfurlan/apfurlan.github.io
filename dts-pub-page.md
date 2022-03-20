@@ -17,7 +17,13 @@ and an article in which I describe the project.
 
 
 Technologies used : 
-<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
+  <b>Technologies<b> :  &nbsp; &nbsp;<img align="center" alt="C" height="50" width="50" src="https://www.instana.com/media/01_INSTANA_IconSet_ApacheSpark.svg">
+  <img align="center" alt="C" height="50" width="50" src="https://seeklogo.com/images/A/airflow-logo-A19E5B6709-seeklogo.com.png">
+  <img align="center" alt="C" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png">
+  <img align="center" alt="C" height="50" width="65" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png">
+  <img align="center" alt="C" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png">
+
 
 &nbsp;
 
