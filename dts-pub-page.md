@@ -16,6 +16,9 @@ and an article in which I describe the project.
 [Github] - [https://github.com/apfurlan/k8s_IaC_ArgoCD](https://github.com/apfurlan/k8s_IaC_ArgoCD) 
 
 
+Technologies used : 
+<img src="/assets/img/MarineGEO_logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 &nbsp;
 
 
