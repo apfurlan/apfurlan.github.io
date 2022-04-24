@@ -136,4 +136,5 @@ Científicas - Madrid - ES.
 
 ## CERTIFICATIONS 
 
-[text](/img_badges/fundamentals_badge.png)
+<img src="./img_badges/fundamentals_badge.png" width="200" height="200" />
+
