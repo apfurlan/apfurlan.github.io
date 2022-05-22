@@ -1,8 +1,11 @@
 
-[9] - Percolation in a oriented dimers models, **A. P. Furlan**, D. C. dos Santos,
+[10] - Percolation in a oriented dimers models, **A. P. Furlan**, D. C. dos Santos,
 R. Dickman - *in preparation*
 
-[8] - Contact processes on fragmented domains, I Ibagon, **A. P. Furlan**, R Dickman,
+[9] - Reducing species extinction by connecting fragmented habitats: insights from 
+the contact process, I. Ibagon, **A. P. Furlan**, R. Dickman, *to appear in* Physica A
+
+[8] - Contact processes on fragmented domains, I. Ibagon, **A. P. Furlan**, R. Dickman,
 [arXiv:2112.15208](https://arxiv.org/abs/2112.15208) 
 
 
