@@ -4,7 +4,8 @@ R. Dickman - *in preparation*
 
 [9] - Reducing species extinction by connecting fragmented habitats: insights from 
 the contact process, I. Ibagon, **A. P. Furlan**, R. Dickman, 
-[Physica A](https://www.sciencedirect.com/science/article/abs/pii/S0378437122004186)
+[Physica A - Pre-Proof](https://www.sciencedirect.com/science/article/abs/pii/S0378437122004186) -
+[arXiv:2112.15208](https://arxiv.org/abs/2112.15208) 
 
 [8] - Contact processes on fragmented domains, I. Ibagon, **A. P. Furlan**, R. Dickman,
 [arXiv:2112.15208](https://arxiv.org/abs/2112.15208) 
