@@ -8,7 +8,7 @@ the contact process, I. Ibagon, **A. P. Furlan**, R. Dickman,
 [arXiv:2112.15208](https://arxiv.org/abs/2112.15208) 
 
 [8] - Contact processes on fragmented domains, I. Ibagon, **A. P. Furlan**, R. Dickman,
-[SSRN](https://ssrn.com/abstract=4006875) - [arXiv:2112.15208](https://arxiv.org/abs/2112.15208) 
+[SSRN Journal (2022)](https://ssrn.com/abstract=4006875) - [arXiv:2112.15208](https://arxiv.org/abs/2112.15208) 
 
 
 ⭐ [7] - Phase diagram and critical properties of a two-dimensional associating lattice gas,
