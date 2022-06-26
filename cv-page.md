@@ -13,10 +13,28 @@
 &nbsp;
 &nbsp;
 
-### **A3Data Consulting** - Data Engineer 
+### **Z-Tech | Part of AB-InBev** - Data Platform Engineer 
+
+SINCE JUNE 2021
+
+Main technologies used : 
+
+- Azure 
+    - Azure Databricks
+    - AKS
+    - Contianer Registry
+- Github Actions
 
 
-SINCE NOVEMBER 2021
+&nbsp;
+&nbsp;
+
+---
+
+
+### **A3Data Consulting** - Data Engineer
+
+FROM NOVEMBER 2021 TO JUNE 2021 (8 months)
 
 I've worked implementing a cloud-based architecture of project. I implemented 
 infrastructure as code by using Terraform in AWS. Different AWS services were 
