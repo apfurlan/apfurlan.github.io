@@ -42,6 +42,11 @@ I used :
 
 [Gitlab] - [https://gitlab.com/apfurlan/time_series](https://gitlab.com/apfurlan/time_series)
 
+I used : 
+
+<img align="center" alt="Python" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="C" height="30" width="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png"> <img align="center" alt="C" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/115px-Tensorflow_logo.svg.png">
+
 &nbsp;
 
 ## Classificação de tumores
