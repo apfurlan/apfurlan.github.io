@@ -38,6 +38,9 @@ I used :
 [Github] - [https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectPriceTF.ipynb](https://github.com/apfurlan/DataScienceMachineLearning/blob/main/projectPriceTF.ipynb)
 
 
+## Time Series with Python - Sklearn and TensorFlow
+
+[Gitlab] - [https://gitlab.com/apfurlan/time_series](https://gitlab.com/apfurlan/time_series)
 
 &nbsp;
 
