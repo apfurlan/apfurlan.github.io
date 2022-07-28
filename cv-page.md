@@ -156,6 +156,8 @@ Científicas - Madrid - ES.
 
 <img src="./img_badges/fundamentals_badge.png" width="200" height="200" />
 
+&nbsp;
+&nbsp;
 
-## BOOTCAMPS
+## COURSES AND BOOTCAMPS
 <img src="./img_badges/xpe_edc_badge.svg" width="200" height="200" />
