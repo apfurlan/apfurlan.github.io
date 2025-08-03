@@ -1,12 +1,12 @@
 import React from 'react';
-import ReactMarkdown from 'react-markdown';
+
 import DOMPurify from 'dompurify';
 
 import '../../App.css';
 import './About.css';
 import { useState, useEffect } from 'react';
 
-import photo from './assets/photo.png'
+// import photo from './assets/photo.png'
 
 const About = () => {
 	
