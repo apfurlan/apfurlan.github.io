@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Kubernetes on AWS",
+        "description": "Research and development of novel machine learning algorithms for various applications.",
+        "image": "img1",
+        "tags": [
+            "Data Engineer","Cloud Computing","Kubernetes","Terraform"
+        ],
+        "link": "#"
+    },
+    {
+        "title": "Computer Vision",
+        "description": "Developing advanced computer vision systems for object detection and recognition.",
+        "image": "https://alshedivat.github.io/al-folio/assets/img/projects/vision.jpg",
+        "tags": ["OpenCV","TensorFlow","Image Processing"],
+        "link": "#"
+    },
+    {
+        "title": "Natural Language Processing",
+        "description": "Building models to understand and generate human language.",
+        "image": "https://alshedivat.github.io/al-folio/assets/img/projects/nlp.jpg",
+        "tags": ["Transformers","BERT","Text Generation"],
+        "link": "#"
+    },
+    {
+        "title": "Robotics",
+        "description": "Designing autonomous systems for real-world applications.",
+        "image": "https://alshedivat.github.io/al-folio/assets/img/projects/robotics.jpg",
+        "tags": ["ROS","Control Systems","Autonomy"],
+        "link": "#"
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Percolation",
+        "description": "Percolation theory studies the emergence of long-range connectivity in disordered systems as a function of occupation probability or density. This fundamental model describes phase transitions where a system shifts from isolated clusters to a spanning network, characterized by a critical threshold ($p_c$). Key observables include the correlation length (diverging at $p_c$), cluster size distribution (power-law at criticality), and universal critical exponents (e.g., $\\beta$, $\\nu$). Analytical solutions exist for select cases (e.g., 2D lattice percolation via conformal field theory), while complex systems often require renormalization group or Monte Carlo methods. The model's simplicity and depth make it a powerful tool for probing disorder-driven critical phenomena.",
+        "figure": "/assets/research/config.png",
+        "tags": [
+            "Jamming limit",
+            "Random Sequential Adsorption",
+            "Percolation Threshold",
+            "Newmann-Ziff"
+        ]
+    },
+    {
+        "title": "Phase transitions and Critical Phenomena",
+        "description": "Critical phenomena and phase transitions are fundamental concepts in condensed matter physics that describe how materials undergo abrupt changes in their physical properties under varying external conditions, such as temperature, pressure, or magnetic field. Near a critical point—such as the Curie temperature in ferromagnets or the critical point in liquid-gas transitions—systems exhibit universal scaling behavior characterized by power-law divergences in quantities like specific heat, susceptibility, and correlation length. These transitions are classified by their order (e.g., first-order with latent heat or continuous with no latent heat) and are governed by symmetries and dimensionality, as captured by the Landau-Ginzburg theory and renormalization group approaches. Universality classes emerge, where diverse systems (e.g., ferromagnets, superfluids, alloys) share identical critical exponents due to common underlying physics" ,
+        "figure":  "/assets/research/opxtau_1.png",
+        "tags": [
+            "Order Parameter",
+            "First Order Phase Transition",
+            "Critical Point"
+        ]
+    }, 
+    {
+        "title": "Anomalies in Soft Condensed Matter",
+        "description": "The peculiarities present on the thermodynamic, dynamic and structural properties of water makes it one of the main representative of the select group known as anomalous liquids. Such substances exhibts non-usual properties such as the increase of the density with the temperature, the increase of the diffusion coefficient with the increase of the density and others. The collective interactions among water molecules plus the effect of the temperature gives rise to the complex phase diagram illustrated in the figure.",
+        "figure": "/assets/research/potencial.png",
+        "tags": [
+            "Molecular dynamics simulations",
+            "water-like anomalies",
+            "density anomaly",
+            "shoulder-like potentials"
+        ]
+    },
+    {
+        "title": "Algorithms for Monte Carlo Simulations",
+        "description": "Due to the absence of the exact solution for the majority of the real physical problemas, the Monte Carlo (MC) methods assume a central role in statistical mechanics. The most popular MC method is the Metropolis Algorithm. Although it has been applied a variety of problemas, it is well known that Metropolis Algorithm exhibts limitations in vicinity of the phase transitions. It has motivated the development of different MC methods. We can identify three different classes of algorithms, among then, cluster algorithms, swapping algorithms and entropic algorithms." , 
+        "figure": "/assets/research/tunelamento.png",
+        "tags": [
+            "Monte Carlos Simulation",
+            "Metropolis",
+            "Wang Landau",
+            "Parallel Tempering"
+        ]
+    }   
+]

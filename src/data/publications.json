@@ -1,0 +1,112 @@
+[
+    {
+      "title": "Random sequential adsorption of oriented dimers with vertex restrictions - IN PREPARATION",
+      "authors": "A. P. Furlan, Diogo C. dos Santos, Charles S. do Amaral, Ronald Dickman",
+      "journal": " -- ",
+      "links": [
+            { "type": "pdf", "url": "#"
+            },
+            { "type": "code", "url": "#"
+            },
+            { "type": "slides", "url": "#"
+            }
+        ],
+      "abstract": "---"
+    },
+    {
+      "title": "Jamming and percolation of dimers in restricted-valence random sequential adsorption",
+      "authors": "A. P. Furlan, Diogo C. dos Santos, Robert M. Ziff, Ronald Dickman",
+      "journal": "Physical Review Research",
+      "links": [
+            { "type": "physicalReview", "url": "https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043027"
+            },
+            { "type": "arXiv", "url": "https://arxiv.org/abs/2006.06839"
+            }
+        ],
+      "abstract": "Restricted-valence random sequential adsorption is studied in its pure and disordered versions on the square and triangular lattices. For the simplest case (pure on the square lattice) we prove the absence of percolation for maximum valence 𝑉max=2. In other cases, Monte Carlo simulations are used to investigate the percolation threshold, universality class, and jamming limit. Our results reveal a continuous transition for the majority of the cases studied. The percolation threshold is computed through finite-size scaling analysis of seven properties; its value increases with the average valency. Scaling plots and data-collapse analyses show that the transition belongs to the standard percolation universality class even in disordered cases."
+    },
+    {
+      "title": "Reducing species extinction by connecting fragmented habitats: Insights from the contact process",
+      "authors": "I. Ibagon, A. P. Furlan, R. Dickman",
+      "journal": "Physica A",
+      "links": [
+            { "type": "physicaA", "url": "https://www.sciencedirect.com/science/article/pii/S0378437122004186"
+            },
+            { "type": "arXiv", "url": "https://arxiv.org/abs/2112.15208"
+            }
+        ],
+      "abstract": "Motivated by recent findings of enhanced species survival when fragmented habitats are reconnected through narrow strips of land (Pimm and Jenkins, 2019), we study the effect of a corridor connecting two regions on the lifetime of three models exhibiting extinction/survival phase transitions: the basic contact process (CP), the diffusive contact process, and the two-species contact process (2SCP) using Monte Carlo simulations. For the basic contact process we also present semianalytic solutions on complete graphs. We find that connecting two regions increases the lifetime when the reproduction rate is greater than its critical value. The lifetime enhancement increases with the reproduction rate; for square regions, wide and short corridors provide the best enhancement."
+    },
+    {
+      "title": "Phase diagram and critical properties of a two-dimensional associating lattice gas",
+      "authors": "I. Ibagon, A.P. Furlan, T.J. Oliveira, R. Dickman",
+      "journal": "Phyisical Review E",
+      "links": [
+            { "type": "physicalReview", "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.104.064120"
+            },
+            { "type": "code", "url": "https://arxiv.org/abs/2109.12658"
+            }
+        ],
+      "abstract": "We revisit the associating lattice gas (ALG) introduced by Henriques et al. [Phys. Rev. E 71, 031504 (2005)] in its symmetric version. In this model, defined on the triangular lattice, interaction between molecules occupying nearest-neighbor sites depends on their relative orientation, mimicking the formation of hydrogen bonds in network-forming fluids. Although all previous studies of this model agree that it has a disordered fluid (DF), a low-density liquid (LDL), and a high-density liquid (HDL) phase, quite different forms have been reported for its phase diagram. Here, we present a thorough investigation of its phase behavior using both transfer matrix calculations and Monte Carlo (MC) simulations, along with finite-size scaling extrapolations. Results in striking agreement are found using these methods. The critical point associated with the DF-HDL transition at full occupancy, identified by Furlan et al. [Phys. Rev. E 100, 022109 (2019)] is shown to be one terminus of a critical line separating these phases. In opposition to previous simulation studies, we find that the transition between the DF and LDL phases is always discontinuous, similar to the LDL-HDL transition. The associated coexistence lines meet at the point where the DF-HDL critical line ends, making it a critical-end-point. Overall, the form of the phase diagram observed in our simulations is very similar to that found in the exact solution of the model on a Husimi lattice. Our results confirm that, despite the existence of some waterlike anomalies in this model, it is unable to reproduce key features of the phase behavior of liquid water."
+    },
+    {
+      "title": "Order-disorder transition in a two-dimensional associating lattice gas",
+      "authors": "A.P. Furlan, T.J. Oliveira, J.F. Stilck, R. Dickman",
+      "journal": "Phyisical Review E",
+      "links": [
+            { "type": "physicalReview", "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.022109"
+            },
+            { "type": "code", "url": "https://arxiv.org/abs/1903.08306"
+            }
+        ],
+      "abstract": "We study an associating lattice gas (ALG) using Monte Carlo simulation on the triangular lattice and semianalytical solutions on Husimi lattices. In this model, the molecules have an orientational degree of freedom and the interactions depend on the relative orientations of nearest-neighbor molecules, mimicking the formation of hydrogen bonds. We focus on the transition between the high-density liquid (HDL) phase and the isotropic phase in the limit of full occupancy, corresponding to chemical potential 𝜇→∞, which has not yet been studied systematically. Simulations yield a continuous phase transition at 𝜏𝑐=𝑘𝐵⁢𝑇𝑐/𝛾=0.4763⁢(1) (where −𝛾 is the bond energy) between the low-temperature HDL phase, with a nonvanishing mean orientation of the molecules, and the high-temperature isotropic phase. Results for critical exponents and the Binder cumulant indicate that the transition belongs to the three-state Potts model universality class, even though the ALG Hamiltonian does not have the full permutation symmetry of the Potts model. In contrast with simulation, the Husimi lattice analyses furnish a discontinuous phase transition, characterized by a discontinuity of the nematic order parameter. The transition temperatures (𝜏𝑐=0.51403 and 0.51207 for trees built with triangles and hexagons, respectively) are slightly higher than that found via simulation. Since the Husimi lattice studies show that the ALG phase diagram features a discontinuous isotropic-HDL line for finite 𝜇, three possible scenarios arise for the triangular lattice. The first is that in the limit 𝜇→∞ the first-order line ends in a critical point; the second is a change in the nature of the transition at some finite chemical potential; the third is that the entire line is one of continuous phase transitions. Results from other ALG models and the fact that mean-field approximations show a discontinuous phase transition for the three-state Potts model (known to possess a continuous transition) lends some weight to the third alternative."
+    },
+    {
+      "title": "Temperature of maximum density and excess properties of short-chain alcohol aqueous solutions: A simplified model simulation study",
+      "authors": "A. P. Furlan, E. Lomba, M. C. Barbosa",
+      "journal": "The Journal of Chemical Physics",
+      "links": [
+            { "type": "jChemicalPhysics", "url": "https://pubs.aip.org/aip/jcp/article-abstract/146/14/144503/195076/Temperature-of-maximum-density-and-excess?redirectedFrom=fulltext"
+            },
+            { "type": "arXiv", "url": "https://arxiv.org/abs/1701.08670"
+            }
+        ],
+      "abstract": "We perform an extensive computational study of binary mixtures of water and short-chain alcohols resorting to two-scale potential models to account for the singularities of hydrogen bonded liquids. Water molecules are represented by a well studied core softened potential which is known to qualitatively account for a large number of water’s characteristic anomalies. Along the same lines, alcohol molecules are idealized by dimers in which the hydroxyl groups interact with each other and with water with a core softened potential as well. Interactions involving non-polar groups are all deemed purely repulsive. We find that the qualitative behavior of excess properties (excess volume, enthalpy, and constant pressure heat capacity) agrees with that found experimentally for alcohols such as t-butanol in water. Moreover, we observe that our simple solute under certain conditions acts as a “structure-maker,” in the sense that the temperature of maximum density of the bulk water model increases as the solute is added, i.e., the anomalous behavior of the solvent is enhanced by the solute."
+    },
+    {
+      "title": "Critical points, phase transitions and water-like anomalies for an isotropic two length scale potential with increasing a ttractive well",
+      "authors": "L. Pinheiro, A. P. Furlan, L.B. Krott, A. Diehl and M.C. Barbosa",
+      "journal": "Physica A",
+      "links": [
+            { "type": "physicaA", "url": "https://www.sciencedirect.com/science/article/pii/S0378437116308317"
+            },
+            { "type": "arXiv", "url": "https://www.sciencedirect.com/science/article/pii/S0378437116308317"
+            }
+        ],
+      "abstract": "The thermodynamic, dynamic, and structural behavior of a water-like system confined in a matrix is analyzed for increasing confining geometries. The liquid is modeled by a two-dimensional associating lattice gas model that exhibits density and diffusion anomalies, similar to the anomalies present in liquid water. The matrix is a triangular lattice in which fixed obstacles impose restrictions to the occupation of the particles. We show that obstacles shorten all lines, including the phase coexistence, the critical and the anomalous lines. The inclusion of a very dense matrix not only suppresses the anomalies but also the liquid-liquid critical point."
+    },
+    {
+      "title": "Lattice model for water-solute mixtures",
+      "authors": "A. P. Furlan; N. G. Almarza; M. C. Barbosa",
+      "journal": "The Journal of Chemical Physics",
+      "links": [
+            { "type": "jChemicalPhysics", "url": "https://pubs.aip.org/aip/jcp/article-abstract/145/14/144501/194809/Lattice-model-for-water-solute-mixtures?redirectedFrom=fulltext"
+            },
+            { "type": "arXiv", "url": "https://arxiv.org/abs/1605.05228"
+            }
+        ],
+      "abstract": "The thermodynamic, dynamic, and structural behavior of a water-like system confined in a matrix is analyzed for increasing confining geometries. The liquid is modeled by a two-dimensional associating lattice gas model that exhibits density and diffusion anomalies, similar to the anomalies present in liquid water. The matrix is a triangular lattice in which fixed obstacles impose restrictions to the occupation of the particles. We show that obstacles shorten all lines, including the phase coexistence, the critical and the anomalous lines. The inclusion of a very dense matrix not only suppresses the anomalies but also the liquid-liquid critical point."
+    },
+    {
+      "title": "Influence of disordered porous media on the anomalous properties of a simple water model",
+      "authors": "A. P. Furlan, Carlos E. Fiore, M. C. Barbosa",
+      "journal": "Phyisical Review E",
+      "links": [
+            { "type": "physicalReview", "url": "https://journals.aps.org/pre/abstract/10.1103/PhysRevE.92.032404"
+            },
+            { "type": "arXiv", "url": "https://arxiv.org/abs/1504.04608"
+            }
+        ],
+      "abstract": "The thermodynamic, dynamic, and structural behavior of a water-like system confined in a matrix is analyzed for increasing confining geometries. The liquid is modeled by a two-dimensional associating lattice gas model that exhibits density and diffusion anomalies, similar to the anomalies present in liquid water. The matrix is a triangular lattice in which fixed obstacles impose restrictions to the occupation of the particles. We show that obstacles shorten all lines, including the phase coexistence, the critical and the anomalous lines. The inclusion of a very dense matrix not only suppresses the anomalies but also the liquid-liquid critical point."
+    }
+]
