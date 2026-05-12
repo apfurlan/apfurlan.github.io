@@ -1,14 +1,14 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './Research.css';
 import research from '../../data/research.json'
 
-// import configImage from './config.png'
-// import configImage2 from './opxtau_1.png'
-// import configImage3 from './potencial.png'
-// import configImage4 from './tunelamento.png'
-// import Latex from 'react-latex';
-
 const Research = () => {
+
+  useEffect(() => {
+    if (window.MathJax) {
+      window.MathJax.typesetPromise();
+    }
+  }, []);
 
   return (
     <section className="research">

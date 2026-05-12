@@ -12,12 +12,17 @@ const About = () => {
 	
  	const [htmlContent, setHtmlContent] = useState('');
 	useEffect(() => {
-    fetch(process.env.PUBLIC_URL + '/content/About/about-content.html')
+    fetch('/content/About/about-content.html')
       .then(response => {
         if (!response.ok) throw new Error('Network response was not ok');
         return response.text();
       })
-      .then(text => setHtmlContent(text))
+      .then(text => {
+        setHtmlContent(text);
+        setTimeout(() => {
+          if (window.MathJax) window.MathJax.typesetPromise();
+        }, 0);
+      })
       .catch(error => console.error('Error loading content:', error));
   	}, []);
 
