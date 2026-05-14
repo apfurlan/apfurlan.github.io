@@ -9,7 +9,7 @@ const Header = ({ activeSection, setActiveSection }) => {
     { id: 'about', label: 'About' },
     { id: 'research', label: 'Research' },
     { id: 'publications', label: 'Publications' },
-    { id: 'physics', label: 'Physics' },
+    { id: 'curriculum', label: 'Curriculum' },
     { id: 'data', label: 'Data' },
     { id: 'teaching', label: 'Teaching' },
     { id: 'contact', label: 'Contact' }

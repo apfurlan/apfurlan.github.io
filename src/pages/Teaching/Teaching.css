@@ -1,0 +1,137 @@
+.teaching {
+  padding: 4rem 0;
+  background-color: #f8f8f8;
+}
+
+.teaching .section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2a2a2a;
+  margin-bottom: 2rem;
+  position: relative;
+}
+
+.teaching .section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 50px;
+  height: 3px;
+  background-color: #2962ff;
+}
+
+.teaching-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+  margin-top: 2.5rem;
+}
+
+/* ── Horizontal card ── */
+.teaching-card {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: white;
+  border-radius: 4px;
+  overflow: hidden;
+  border: 1px solid #e9ecef;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.25s, transform 0.25s;
+}
+
+.teaching-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.09);
+}
+
+/* Left: illustration */
+.teaching-card-image {
+  width: 160px;
+  height: 160px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem;
+  background: transparent;
+}
+
+/* Right: text */
+.teaching-card-content {
+  flex: 1;
+  padding: 1.25rem 1.75rem;
+  border-left: 1px solid #f0f0f0;
+}
+
+.teaching-card-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #2a2a2a;
+  margin: 0 0 0.2rem 0;
+}
+
+.teaching-card-subtitle {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.85rem;
+  color: #2962ff;
+  font-weight: 600;
+  display: block;
+  margin-bottom: 0.65rem;
+}
+
+.teaching-card-description {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.92rem;
+  color: #495057;
+  line-height: 1.65;
+  margin-bottom: 0.85rem;
+}
+
+.teaching-card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.teaching-tag {
+  background-color: #edf2f7;
+  color: #2d3748;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.75rem;
+  font-weight: 500;
+  padding: 0.25rem 0.7rem;
+  border-radius: 50px;
+}
+
+.teaching-card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 0.85rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #24292e;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.teaching-card-link:hover {
+  color: #2962ff;
+}
+
+@media (max-width: 600px) {
+  .teaching-card {
+    flex-direction: column;
+  }
+  .teaching-card-image {
+    width: 100%;
+    height: 140px;
+    border-left: none;
+    border-bottom: 1px solid #f0f0f0;
+  }
+}

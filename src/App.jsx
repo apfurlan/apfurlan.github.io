@@ -4,11 +4,12 @@ import Header from './components/Header/Header';
 import About  from './pages/About/About';
 import Footer from './components/Footer/Footer';
 import Publications from './pages/Publications/Publications';
-
 import Research from './pages/Research/Research';
-import DataProjects from './pages/DataProjects/DataProjects'; 
-
-console.log('[App.js] Projects component:', DataProjects);
+import DataProjects from './pages/DataProjects/DataProjects';
+import UnderConstruction from './components/UnderConstruction/UnderConstruction';
+import Contact from './pages/Contact/Contact';
+import Curriculum from './pages/Curriculum/Curriculum';
+import Teaching from './pages/Teaching/Teaching';
 
 function App() {
   const [activeSection, setActiveSection] = useState('about');
@@ -23,8 +24,12 @@ function App() {
         return <Publications />;
       case 'data':
         return <DataProjects />;
-      // case 'contact':
-      //   return <Contact />;
+      case 'curriculum':
+        return <Curriculum />;
+      case 'teaching':
+        return <Teaching />;
+      case 'contact':
+        return <Contact />;
       default:
         return <About />;
     }

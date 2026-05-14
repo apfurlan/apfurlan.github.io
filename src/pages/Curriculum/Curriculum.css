@@ -1,0 +1,234 @@
+.curriculum {
+  padding: 4rem 0;
+  background-color: white;
+}
+
+.curriculum .section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #2a2a2a;
+  margin-bottom: 2.5rem;
+  position: relative;
+}
+
+.curriculum .section-title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 0;
+  width: 50px;
+  height: 3px;
+  background-color: #2962ff;
+}
+
+/* ── Two-column layout ── */
+.cv-layout {
+  display: flex;
+  gap: 2.5rem;
+  align-items: flex-start;
+}
+
+/* ── SIDEBAR ── */
+.cv-sidebar {
+  width: 260px;
+  flex-shrink: 0;
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1.5rem;
+}
+
+.cv-profile-name {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: #212529;
+  margin-bottom: 0.25rem;
+}
+
+.cv-profile-title {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.85rem;
+  color: #2962ff;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
+}
+
+.cv-contact-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  font-family: 'Lato', sans-serif;
+  font-size: 0.8rem;
+  color: #495057;
+  margin-bottom: 1.25rem;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 1.25rem;
+}
+
+.cv-contact-list a {
+  color: #2962ff;
+  text-decoration: none;
+}
+
+.cv-contact-list a:hover {
+  text-decoration: underline;
+}
+
+.cv-about {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.82rem;
+  color: #495057;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+  border-bottom: 1px solid #dee2e6;
+  padding-bottom: 1.25rem;
+}
+
+.cv-skills-section {
+  font-family: 'Lato', sans-serif;
+}
+
+.cv-skills-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #212529;
+  margin-bottom: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.cv-skill {
+  margin-bottom: 0.6rem;
+}
+
+.cv-skill-label {
+  font-size: 0.78rem;
+  color: #495057;
+  margin-bottom: 0.25rem;
+}
+
+.cv-skill-bar {
+  display: flex;
+  gap: 4px;
+}
+
+.cv-skill-dot {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background-color: #dee2e6;
+  border: 1px solid #ced4da;
+}
+
+.cv-skill-dot.filled {
+  background-color: #2962ff;
+  border-color: #2962ff;
+}
+
+.cv-skills-note {
+  font-size: 0.72rem;
+  color: #adb5bd;
+  margin-top: 0.5rem;
+}
+
+/* ── MAIN CONTENT ── */
+.cv-main {
+  flex: 1;
+  min-width: 0;
+}
+
+.cv-section {
+  margin-bottom: 2.5rem;
+}
+
+.cv-section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #4a4a4a;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 0.4rem;
+  margin-bottom: 1.25rem;
+}
+
+.cv-summary {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.75;
+  color: #495057;
+  text-align: justify;
+}
+
+/* ── Timeline ── */
+.cv-timeline-item {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+}
+
+.cv-timeline-period {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.78rem;
+  color: #868e96;
+  min-width: 130px;
+  padding-top: 0.15rem;
+  flex-shrink: 0;
+}
+
+.cv-timeline-body {
+  flex: 1;
+  border-left: 2px solid #e9ecef;
+  padding-left: 1rem;
+}
+
+.cv-timeline-role {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: #212529;
+  margin-bottom: 0.1rem;
+}
+
+.cv-timeline-company {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.82rem;
+  color: #2962ff;
+  margin-bottom: 0.5rem;
+}
+
+.cv-timeline-list {
+  font-family: 'Lato', sans-serif;
+  font-size: 0.85rem;
+  color: #495057;
+  line-height: 1.6;
+  padding-left: 1.1rem;
+  margin: 0;
+}
+
+.cv-timeline-list li {
+  margin-bottom: 0.2rem;
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .cv-layout {
+    flex-direction: column;
+  }
+
+  .cv-sidebar {
+    width: 100%;
+  }
+
+  .cv-timeline-item {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .cv-timeline-period {
+    min-width: unset;
+  }
+}
